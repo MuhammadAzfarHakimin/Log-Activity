@@ -6,6 +6,6 @@ Log activity
 |----|------|--------|------|----------------------------------|----------------------|
 | 1  |12/11/2026|Muhammad Azfar Hakimin Bin Othman| Cover page | UTM E-Learning and google “UTM Logo”| complete cover page|
 | 2 |12/11/2026|Muhammad Azfar Hakimin Bin Othman| Speaker’s Experience| Search on google “Dr Zahari Othman|https://www.facebook.com/zahari.maths/|
-| 3  |13/11/2026|Muhammad Azfar Hakimin Bin Othman|reflection| Industry Talk notes |completed reflection|
+| 3  |15/11/2026|Muhammad Azfar Hakimin Bin Othman|reflection| Industry Talk notes |completed reflection|
 | 3  |.     |.       |                              |                      |
 | 4  |      |        |      |                                  |                      |
