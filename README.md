@@ -4,7 +4,7 @@ Log activity
 
 | No | Date | Member | Task | Source / search / AI prompt used | Output / GitHub link |
 |----|------|--------|------|----------------------------------|----------------------|
-| 1  |12/11/2026|Muhammad Azfar Hakimin Bin Othman| Speaker’s Experience| Search on google “Dr Zahari Othman|                    |
-| 2  |      |        |      |                                  |                      |
+| 1  |12/11/2026|Muhammad Azfar Hakimin Bin Othman| Speaker’s Experience| Search on google “Dr Zahari Othman|https://www.facebook.com/zahari.maths/|
+| 2  |13/11/2026|Muhammad Azfar Hakimin Bin Othman|reflection| Industry Talk notes |                      |
 | 3  |      |        |      |                                  |                      |
 | 4  |      |        |      |                                  |                      |
